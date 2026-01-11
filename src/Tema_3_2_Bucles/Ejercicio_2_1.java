@@ -1,6 +1,5 @@
 package Tema_3_2_Bucles;
 
-@SuppressWarnings("unused")
 public class Ejercicio_2_1 {
 
 	/*
